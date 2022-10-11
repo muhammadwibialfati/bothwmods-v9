@@ -64,15 +64,12 @@
 "src": "src"
 },
 "devDependencies": {},
-"scripts": {
-  "start": "pm2 start kalgans.js --deep-monitoring --attach"
-},
 "repository": {
 "type": "git",
-"url": "git+https://github.com/HW-XMTeam/INI-KERASA.git"
+"url": "git+https://github.com/HW-XMTeam/bothwmods-v9.git"
 },
 "bugs": {
-"url": "https://github.com/HW-XMTeam/INI-KERASA/issues"
+"url": "https://github.com/HW-XMTeam/bothwmods-v9/issues"
 },
 "homepage": "https://github.com/HW-XMTeam#readme"
 }
