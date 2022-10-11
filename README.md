@@ -46,7 +46,6 @@
 heroku/nodejs
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-https://github.com/ItsJimi/heroku-buildpack-pm2.git
 ```
 ## For Termux
 ```
@@ -56,10 +55,10 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install git
 pkg install mc
-pkg install python
-python
-CTRL+D
-git clone https://github.com/HW-XMTeam/INI-KERASA.git
+pkg install python [ Tidak Wajib ]
+python [ Tidak Wajib ]
+CTRL+D [ Tidak Wajib ]
+git clone https://github.com/HW-XMTeam/bothwmods-v9.git
 cd /INI-KERASA
 pkg install yarn
 yarn
